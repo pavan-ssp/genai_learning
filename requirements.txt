@@ -24,3 +24,6 @@ duckduckgo_search
 langchain_community
 yfinance
 ddgs
+autogen-agentchat
+autogen-core
+autogen-ext
